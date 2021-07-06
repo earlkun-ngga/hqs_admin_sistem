@@ -13,14 +13,18 @@ Fitur :
 - Admin dapat mengunduh foto yang ingin di proses oleh user
 
 Bahasa pemrograman yang di pakai : PHP dan MYSQL 
+
 Framework : Native
 
-Project Untuk : Iseng non profit Pengembang dan Pembuat : Saya (Muhammad Erlangga Sapta Ajie)
+Project Untuk : Toko Fotocopy HQ Studio
+
+
+Pengembang dan Pembuat : Saya (Muhammad Erlangga Sapta Ajie)
 
 Instalasi :
 
 Taruh file web pada folder root webserver (contoh nya htdocs)
 Import database berekstensi .sql
-Akun :
 
-Untuk proses login gunakan akun yang ada pada database
+
+Akun : Untuk proses login gunakan akun yang ada pada database
